@@ -1,7 +1,9 @@
-# Firearms Modlet (A17 full release)
+# FIREARMS EXPANSION 1.2 CAN BE FOUND AT THE LINKS BELOW: 
+https://github.com/Jayick/Firearms-1.2
 
-Prepping modlet for update: adding more weapons, grenade launchers, and fine tuning other weapons.
-1/16/19: Prepping ReadMe for new modlet features. 
+https://github.com/Jayick/Firearms/tree/Expansion1
+
+https://www.nexusmods.com/7daystodie/mods/208
 
 ## Requirements:
 Requires Alpha 17 version of 7 Days to Die. Will not work on A16.4 or lesser.
