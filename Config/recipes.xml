@@ -492,5 +492,78 @@
 	<ingredient name="gunAK47" count="1"/>
 </recipe>
 
+<!-- Weight conversions from one round to another -->
+<recipe name="38 Bullet" count="2">
+	<ingredient name="44MagBullet" count="1"/>
+</recipe>
+
+<recipe name="223 Bullet" count="3">
+	<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<recipe name="5.56mm Bullet" count="3">
+	<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<!-- These are the same rounds btw -->
+<recipe name="5.56mm Bullet" count="1">
+		<ingredient name="5.56x45mm Bullet" count="1"/>
+</recipe>
+<recipe name="5.56x45mm Bullet" count="1"> <!-- Stright back conversion -->
+		<ingredient name="5.56 Bullet" count="1"/>
+</recipe>
+
+<recipe name="5.56x45mm Bullet" count="3">
+	<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<recipe name="40cal Bullet" count="2">
+	<ingredient name="44MagBullet" count="1"/>
+</recipe>
+
+<recipe name="45ACP Bullet" count="1">
+		<ingredient name="44MagBullet" count="1"/>
+</recipe>
+
+<recipe name="50AE Bullet" count="1">
+		<ingredient name="44MagBullet" count="2"/>
+</recipe>
+
+<recipe name="7.62x39mm Bullet" count="3">
+		<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<recipe name="30-06 Bullet" count="1">
+		<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<recipe name="10mm Bullet" count="4">
+	<ingredient name="9mmBullet" count="5"/>
+</recipe>
+
+<recipe name="5mm Bullet" count="1">
+	<ingredient name="762mmBullet" count="2"/>
+</recipe>
+
+<recipe name="50cal Bullet" count="1">
+	<ingredient name="762mmBullet" count="3"/>
+</recipe>
+
+<recipe name="shotgunShell" count="2">
+	<ingredient name="20 Gauge Shell" count="3"/>
+</recipe>
+
+<recipe name="20 Gauge Shell" count="3">
+	<ingredient name="ammoShotgunShell" count="2"/>
+</recipe>
+
+<!-- copy pasta code :)
+
+<recipe name="" count="">
+	<ingredient name="" count=""/>
+</recipe>
+
+-->
+
 </append>
 </configs>
