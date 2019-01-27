@@ -33,7 +33,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="9x19mm Bullet"/>
+		<property name="Magazine_items" value="9x19mm Bullet,9x19mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="lugerfire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -96,7 +96,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="38 Bullet"/>
+		<property name="Magazine_items" value="38 Bullet, 38 Hollow Point Bullet"/>
 		<property name="Sound_start" value="lugerfire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -157,7 +157,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="40cal Bullet"/>
+		<property name="Magazine_items" value="40cal Bullet, 40cal Hollow Point Bullet"/>
 		<property name="Sound_start" value="glockfire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -218,7 +218,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="45ACP Bullet"/>
+		<property name="Magazine_items" value="45ACP Bullet, 45ACP Hollow Point Bullet"/>
 		<property name="Sound_start" value="1911fire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -279,7 +279,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="50AE Bullet"/>
+		<property name="Magazine_items" value="50AE Bullet, 50AE Hollow Point Bullet"/>
 		<property name="Sound_start" value="defire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -356,7 +356,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="10mm Bullet"/>
+		<property name="Magazine_items" value="10mm Bullet,10mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="klobfire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -419,7 +419,7 @@
 
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
-		<property name="Magazine_items" value="10mm Bullet"/>
+		<property name="Magazine_items" value="10mm Bullet,10mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="macfire"/>
 		<property name="Sound_repeat" value=""/>
 		<property name="Sound_end" value=""/>
@@ -477,7 +477,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="40cal Bullet"/>
+		<property name="Magazine_items" value="9x19mm Bullet, 9x19mm Hollow Point Bullet, 40cal Bullet, 40cal Hollow Point Bullet"/>
 		<property name="Sound_start" value="mp5fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -538,7 +538,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="45ACP Bullet"/>
+		<property name="Magazine_items" value="45ACP Bullet, 45ACP Hollow Point Bullet"/>
 		<property name="Sound_start" value="tommyfire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -598,7 +598,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="9x19mm Bullet"/>
+		<property name="Magazine_items" value="9x19mm Bullet, 9x19mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="mp40fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -891,7 +891,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="7.62x51mm Bullet"/>
+		<property name="Magazine_items" value="7.62x51mm Bullet,7.62x51mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="fnfire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -955,7 +955,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56mm Bullet"/>
+		<property name="Magazine_items" value="5.56mm Bullet, 5.56mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="rustak"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1013,7 +1013,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="223 Bullet,5.56mm Bullet"/>
+		<property name="Magazine_items" value="223 Bullet, 223 Hollow Point Bullet, 5.56mm Bullet, 5.56mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="ar15fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1072,7 +1072,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="7.62x39mm Bullet,5.56x45mm Bullet"/>
+		<property name="Magazine_items" value="7.62x39mm Bullet,5.56x45mm Bullet,7.62x39mm Hollow Point Bullet,5.56x45mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="aktest"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1131,7 +1131,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56mm Bullet"/>
+		<property name="Magazine_items" value="5.56mm Bullet, 5.56mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="m16fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1190,7 +1190,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56x45mm Bullet,7.62x51mm Bullet"/>
+		<property name="Magazine_items" value="5.56x45mm Bullet,7.62x51mm Bullet,5.56x45mm Hollow Point Bullet,7.62x51mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="m4a1fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1248,7 +1248,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56x45mm Bullet,7.62x51mm Bullet"/>
+		<property name="Magazine_items" value="5.56x45mm Bullet,7.62x51mm Bullet,5.56x45mm Hollow Point Bullet,7.62x51mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="scarfire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1306,7 +1306,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.5"/>
-		<property name="Magazine_items" value="30-06 Bullet"/>
+		<property name="Magazine_items" value="30-06 Bullet,30-06 Hollow Point Bullet"/>
 		<property name="Reload_time" value="2.66"/>
 		<property name="Sound_start" value="m1fire"/>
 		<property name="Sound_repeat" value=""/>
@@ -1372,7 +1372,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56x45mm Bullet"/>
+		<property name="Magazine_items" value="5.56x45mm Bullet,5.56x45mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="m249fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1431,7 +1431,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.150"/>
-		<property name="Magazine_items" value="5.56x45mm Bullet"/>
+		<property name="Magazine_items" value="5.56x45mm Bullet,5.56x45mm Hollow Point Bullet"/>
 		<property name="Sound_start" value="ak47_fire"/>
 		<property name="Sound_empty" value="weapon_empty"/>
 		<property name="Sound_reload" value="ak47_reload"/>
@@ -1490,7 +1490,7 @@
 	<property class="Action0">
 		<property name="Class" value="Ranged"/>
 		<property name="Delay" value="0.5"/>
-		<property name="Magazine_items" value="7.62x51mm Bullet"/>
+		<property name="Magazine_items" value="7.62x51mm Bullet,7.62x51mm Hollow Point Bullet"/>
 		<property name="Reload_time" value="2.5"/>
 		<property name="Sound_start" value="sr25fire"/>
 		<property name="Sound_repeat" value=""/>
@@ -1985,6 +1985,16 @@
 	</effect_group>
 </item>
 
+<item name="10mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="10mm"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="19"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="4"/>
+	</effect_group>
+</item>
+
 <!--                          Pistols                        -->
 
 <!-- Luger/MP40 -->
@@ -1998,11 +2008,20 @@
 	</effect_group>
 </item>
 
+<item name="9x19mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="199"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="29"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="4"/>
+	</effect_group>
+</item>
+
 <!-- .38 Snubnose -->
 <item name="38 Bullet">
 	<property name="Extends" value="10mm Bullet"/>
 	<property name="CustomIcon" value="38"/>
-	<property name="Group" value="Ammo/Weapons"/>
 	<property name="Group" value="Ammo/Weapons"/>
 	<effect_group name="Base Effects" tiered="false">
 		<passive_effect name="EntityDamage" operation="base_set" value="25"/>
@@ -2011,6 +2030,17 @@
 		<passive_effect name="DamageModifier" operation="perc_add" value=".1" tags="wood"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="metal"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="stone"/>
+	</effect_group>
+</item>
+
+<!-- .38 Snubnose -->
+<item name="38 Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="38"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="35"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="5"/>
 	</effect_group>
 </item>
 
@@ -2030,6 +2060,16 @@
 	</effect_group>
 </item>
 
+<item name="40cal Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="40"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="49"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="4"/>
+	</effect_group>
+</item>
+
 <!-- 1911 -->
 <item name="45ACP Bullet">
 	<property name="Extends" value="10mm Bullet"/>
@@ -2046,12 +2086,20 @@
 	</effect_group>
 </item>
 
+<item name="45ACP Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="45acp"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="59"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="5"/>
+	</effect_group>
+</item>
 
 <!-- Desert Eagle -->
 <item name="50AE Bullet">
 	<property name="Extends" value="10mm Bullet"/>
 	<property name="CustomIcon" value="50ae"/>
-	<property name="Group" value="Ammo/Weapons"/>
 	<property name="Group" value="Ammo/Weapons"/>
 	<effect_group name="Base Effects" tiered="false">
 		<passive_effect name="EntityDamage" operation="base_set" value="82"/>
@@ -2064,6 +2112,15 @@
 	</effect_group>
 </item>
 
+<item name="50AE Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="50ae"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="115"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="38"/>
+	</effect_group>
+</item>
 
 
 
@@ -2114,6 +2171,16 @@
 	</effect_group>
 </item>
 
+<item name="7.62x39mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="76239"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="44"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="10"/>
+	</effect_group>
+</item>
+
 <!-- AR15(sub) -->
 <item name="223 Bullet">
 	<property name="Extends" value="10mm Bullet"/>
@@ -2126,6 +2193,16 @@
 		<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="metal"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="stone"/>
+	</effect_group>
+</item>
+
+<item name="223 Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="223"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="40"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="3"/>
 	</effect_group>
 </item>
 
@@ -2144,6 +2221,16 @@
 	</effect_group>
 </item>
 
+<item name="5.56mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="5.56"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="48"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="8"/>
+	</effect_group>
+</item>
+
 <!-- M4A1 SCAR M249 Assault Rifle(sub) ammo -->
 <item name="5.56x45mm Bullet">
 	<property name="Extends" value="10mm Bullet"/>
@@ -2156,6 +2243,16 @@
 		<passive_effect name="DamageModifier" operation="perc_add" value="2" tags="wood"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="metal"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.9" tags="stone"/>
+	</effect_group>
+</item>
+
+<item name="5.56x45mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="55645"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="58"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="13"/>
 	</effect_group>
 </item>
 
@@ -2175,6 +2272,16 @@
 	</effect_group>
 </item>
 
+<item name="30-06 Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="3006"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="85"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="40"/>
+	</effect_group>
+</item>
+
 <!--                          Large Weapons                        -->
 
 <!-- SR25 -->
@@ -2189,6 +2296,16 @@
 		<passive_effect name="DamageModifier" operation="perc_add" value="10" tags="wood"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="-.1" tags="metal"/>
 		<passive_effect name="DamageModifier" operation="perc_add" value="1" tags="stone"/>
+	</effect_group>
+</item>
+
+<item name="7.62x51mm Hollow Point Bullet">
+	<property name="Extends" value="10mm Bullet"/>
+	<property name="CustomIcon" value="76251"/>
+	<property name="Group" value="Ammo/Weapons"/>
+	<effect_group name="Base Effects" tiered="false">
+		<passive_effect name="EntityDamage" operation="base_set" value="75"/>
+		<passive_effect name="BlockDamage" operation="base_set" value="10"/>
 	</effect_group>
 </item>
 

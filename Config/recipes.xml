@@ -557,6 +557,83 @@
 	<ingredient name="ammoShotgunShell" count="2"/>
 </recipe>
 
+<!-- Hollow Point Recipes -->
+<!-- Pistols  -->
+<recipe name="9x19mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="1"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="38 Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="1"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="40cal Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="2"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="45ACP Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="3"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="50AE Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="5"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<!-- SMG  -->
+<recipe name="10mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="1"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<!-- Rifles  -->
+<recipe name="5.56mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="3"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="223 Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="2"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="7.62x39mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="2"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="5.56x45mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="2"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="30-06 Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="4"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+<recipe name="7.62x51mm Hollow Point Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="1"/>
+	<ingredient name="resourceGunPowder" count="3"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
+
+
 <!-- copy pasta code :)
 
 <recipe name="" count="">
