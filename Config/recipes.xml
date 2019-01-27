@@ -474,6 +474,23 @@
 	<ingredient name="Golden Bullet" count="1"/>
 </recipe>
 
+<!-- Conversions from regular 7 days ammo to like ammo to modlets ammo -->
+<recipe name="9x19mm Bullet" count="1">
+	<ingredient name="9mmBullet" count="1"/>
+<recipe>
+
+<recipe name="7.62x51mm Bullet" count="1">
+	<ingredient name="762mmBullet" count="1"/>
+</recipe>
+
+<!-- Like for like firearm conversions-->
+<recipe name="MP5" craft_area="workbench"  count="1" tags="learnable">
+	<ingredient name="27 - SMG-5" count="1"/>
+</recipe>
+
+<recipe name="AK47" craft_area="workbench" count="1" tags="learnable">
+	<ingredient name="48 - gunAK47" count="1"/>
+</recipe>
 
 </append>
 </configs>
