@@ -633,6 +633,11 @@
 	<ingredient name="resourceBulletCasing" count="1"/>
 </recipe>
 
+<recipe name="50cal Anti-Material Bullet" count="1" craft_area="workbench"   tags="learnable">
+	<ingredient name="resourceBulletTip" count="2"/>
+	<ingredient name="resourceGunPowder" count="5"/>
+	<ingredient name="resourceBulletCasing" count="1"/>
+</recipe>
 
 <!-- copy pasta code :)
 
