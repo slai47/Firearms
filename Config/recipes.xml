@@ -485,11 +485,11 @@
 
 <!-- Like for like firearm conversions-->
 <recipe name="MP5" craft_area="workbench"  count="1" tags="learnable">
-	<ingredient name="27 - SMG-5" count="1"/>
+	<ingredient name="SMG-5" count="1"/>
 </recipe>
 
 <recipe name="AK47" craft_area="workbench" count="1" tags="learnable">
-	<ingredient name="48 - gunAK47" count="1"/>
+	<ingredient name="gunAK47" count="1"/>
 </recipe>
 
 </append>
