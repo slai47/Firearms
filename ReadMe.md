@@ -16,6 +16,9 @@
     * Similar build costs to standard bullets.
     * Loot 50% chance compared to regular rounds with 50% amount.
     * Anti-material round for 50cal which does a 40% increase and 20% increase in block damage. Increased damage towards certain types of blocks. 
+	
+* Added Iron Arrow to Iron Crossbolt Recipe and vice versa
+* Added Steel Arrow to Steel Crossbolt Recipe and vice versa
 
 Adding these will be a Quality fo life for this mod. 
 
